@@ -1,0 +1,4 @@
+alias 'sail=./vendor/bin/sail'
+alias 'php=sail'
+alias 'npm=sail npm'
+alias 'composer=sail composer'
